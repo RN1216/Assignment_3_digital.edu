@@ -1,0 +1,15 @@
+.carousel-item{
+    position: relative;
+}
+.carousel-caption{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    font-weight: 600;
+}
+.carousel-caption-headline{
+    font-size: 3vw;
+}
+.carousel-caption p{
+    font-size: 1.5vw;
+}
